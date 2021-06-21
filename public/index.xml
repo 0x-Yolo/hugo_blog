@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>怎样理解Luna-Ust的通缩螺旋</title>
+      <link>/post/2020-05-12-what-is-luna-deflation/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-05-12-what-is-luna-deflation/</guid>
+      <description>本文简单回顾Luna和UST的机制设计，分析下最近ust面临的挑战，本文将回答以下问题： UST稳定币设计当中的优点在哪里？ 目前UST有一些脱</description>
+    </item>
+    
+    <item>
       <title>Istio 0.8 Release发布</title>
       <link>/2018/06/02/istio08/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
