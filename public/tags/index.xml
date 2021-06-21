@@ -8,20 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lending</title>
-      <link>/tags/lending/</link>
+      <title>DeFi</title>
+      <link>/tags/defi/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lending/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>risk</title>
-      <link>/tags/risk/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/risk/</guid>
+      <guid>/tags/defi/</guid>
       <description></description>
     </item>
     
@@ -31,15 +22,6 @@
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/xvs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Istio</title>
-      <link>/tags/istio/</link>
-      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/istio/</guid>
       <description></description>
     </item>
     
@@ -58,6 +40,15 @@
       <pubDate>Wed, 23 May 2018 18:00:00 +0000</pubDate>
       
       <guid>/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Istio</title>
+      <link>/tags/istio/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/istio/</guid>
       <description></description>
     </item>
     

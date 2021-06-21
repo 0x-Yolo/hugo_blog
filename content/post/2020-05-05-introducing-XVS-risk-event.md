@@ -8,10 +8,7 @@ date:       2020-05-05
 author:     "Yolo"
 image: 
 published: true 
-tags:
-    - XVS
-    - Lending 
-    - risk
+tags: ["DeFi", "XVS"]
 
 categories: [ Tech ]
 URL: "/2020/05/05/introducing-XVS-risk-event/"
