@@ -3,7 +3,7 @@ title:       "怎样理解Luna-Ust的通缩螺旋"
 subtitle:    ""
 description: "本文简单回顾Luna和UST的机制设计，分析下最近ust面临的挑战，本文将回答以下问题：1. UST稳定币设计当中的优点在哪？
 2. 目前UST有一些脱锚的征兆，价格低于USDC 5%左右，是为什么发生的？3. 未来terra生态怎么看？"
-date:        2018-06-04
+date:        2020-05-12
 author:      "Yolo"
 image:       ""
 tags:        ["defi", "luna"]
