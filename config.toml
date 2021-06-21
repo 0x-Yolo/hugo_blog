@@ -14,7 +14,7 @@ relativeUrls = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/post-bg-unix-linux.jpg"
   SEOTitle = "Forerun Lab"
   description = "Forge Crypto World"
   keyword = "Forerun, Yolo"

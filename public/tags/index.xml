@@ -6,13 +6,22 @@
     <description>Recent content in Tags on Forerun Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DeFi</title>
       <link>/tags/defi/</link>
-      <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>luna</title>
+      <link>/tags/luna/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/luna/</guid>
       <description></description>
     </item>
     
@@ -22,15 +31,6 @@
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/xvs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>luna</title>
-      <link>/tags/luna/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/luna/</guid>
       <description></description>
     </item>
     

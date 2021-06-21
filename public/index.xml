@@ -6,7 +6,16 @@
     <description>Recent content on Forerun Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>怎样理解Luna-Ust的通缩螺旋</title>
+      <link>/post/2020-05-12-what-is-luna-deflation/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-05-12-what-is-luna-deflation/</guid>
+      <description>本文简单回顾Luna和UST的机制设计，分析下最近ust面临的挑战，本文将回答以下问题： UST稳定币设计当中的优点在哪里？ 目前UST有一些脱</description>
+    </item>
+    
     <item>
       <title>Yolo：从XVS事件看借贷协议的治理与清算</title>
       <link>/2020/05/05/introducing-XVS-risk-event/</link>
@@ -23,15 +32,6 @@
       
       <guid>/post/readme/</guid>
       <description>问个好！ hello world！</description>
-    </item>
-    
-    <item>
-      <title>怎样理解Luna-Ust的通缩螺旋</title>
-      <link>/post/2020-05-12-what-is-luna-deflation/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-05-12-what-is-luna-deflation/</guid>
-      <description>本文简单回顾Luna和UST的机制设计，分析下最近ust面临的挑战，本文将回答以下问题： UST稳定币设计当中的优点在哪里？ 目前UST有一些脱</description>
     </item>
     
     <item>

@@ -6,22 +6,22 @@
     <description>Recent content in Categories on Forerun Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dapp</title>
+      <link>/categories/dapp/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/dapp/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tech</title>
       <link>/categories/tech/</link>
       <pubDate>Tue, 05 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dapp</title>
-      <link>/categories/dapp/</link>
-      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/dapp/</guid>
       <description></description>
     </item>
     
