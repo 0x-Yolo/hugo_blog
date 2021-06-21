@@ -9,9 +9,7 @@ date:    2018-05-23
 author:     "赵化冰"
 image: "https://img.zhaohuabing.com/in-post/2018-4-25-istio-auto-injection-with-webhook/lion.jpg"
 published: false
-tags:
-    - Kubernetes
-    - Istio
+tags: ["DeFi", "XVS"]
 URL: "/2018/05/23/istio-auto-injection-with-webhook/"
 categories: [ Tech ]
 ---

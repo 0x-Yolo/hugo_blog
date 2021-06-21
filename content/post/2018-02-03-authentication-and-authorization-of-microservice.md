@@ -7,7 +7,7 @@ excerpt: "微服务架构的引入为软件应用带来了诸多好处：包括�
 date:       2018-02-03 12:00:00
 author:     "赵化冰"
 image: "https://img.zhaohuabing.com/in-post/2018-02-03-authentication-and-authorization-of-microservice/AuthenticationTrack.jpeg"
-published: true
+published: false
 tags:
     - Microservice
     - Security

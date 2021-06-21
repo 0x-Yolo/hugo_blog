@@ -8,9 +8,7 @@ date:       2018-05-23T18:00:00
 author:     "赵化冰"
 image: "https://img.zhaohuabing.com/in-post/2018-05-23-external_system_auth/background.jpg"
 published: false
-tags:
-    - Microservice
-    - Security
+tags: ["DeFi", "XVS"]
 URL: "/2018/05/23/external_system_auth/"
 categories: [ "Tech" ]    
 ---

@@ -6,11 +6,8 @@ description: "作为一种架构模式，微服务将复杂系统切分为数十
 date:       2018-03-29 12:00:00
 author:     "赵化冰"
 image: "https://img.zhaohuabing.com/in-post/istio-install_and_example/post-bg.jpg"
-published: true
-tags:
-    - Microservice
-    - Service Mesh
-    - Istio
+published: false
+tags: ["DeFi", "XVS"]
 URL: "/2018/03/29/what-is-service-mesh-and-istio/"
 categories: [ Tech ]    
 ---
